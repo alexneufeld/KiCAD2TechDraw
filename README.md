@@ -24,13 +24,17 @@ has a set of already translated svg files.
 - [This Thread](https://github.com/KiCad/kicad-templates/pull/25)
   is an in-depth look at how KiCAD's ISO5457 templates were originally
   developed. It's worth a read.
-
-## Other Links
-
-- [KiCAD Templates](https://gitlab.com/kicad/libraries/kicad-templates) repository
 - The `.kicad_wks` file parser was copied from 
   [This repository](https://github.com/DerekHarter/python-lisp-parser)
 
 ## Example of results:
 
 ![](./dwg_example.png)
+
+## License
+
+Content in this project is based on files from the 
+[KiCAD Templates](https://gitlab.com/kicad/libraries/kicad-templates)
+repository. It therefore inherits the
+[Creative Commons CC-BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+See also the [KiCAD libraries license](https://www.kicad.org/libraries/license/) page.
