@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace"
+    width="297mm"
+    height="210mm"
+    viewBox="0 0 297 210">
+<rect x="15" y="5" width="277" height="200" id="rect1:Rect" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin: round; fill: none;"/>
+<rect x="20" y="10" width="267" height="190" id="rect2:Rect" style="stroke: black; stroke-width: 0.5249999999999999pt; stroke-linecap: round; stroke-linejoin: round; fill: none;"/>
+<line id="segm1:Line" x1="148.5" y1="5" x2="148.5" y2="10" style="stroke: black; stroke-width: 0.7875000000000001pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm2:Line" x1="148.5" y1="205" x2="148.5" y2="200" style="stroke: black; stroke-width: 0.7875000000000001pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm3:Line" x1="15" y1="105" x2="20" y2="105" style="stroke: black; stroke-width: 0.7875000000000001pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm4:Line" x1="292" y1="105" x2="287" y2="105" style="stroke: black; stroke-width: 0.7875000000000001pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm5:Line" x1="48.5" y1="5" x2="48.5" y2="10" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm6:Line" x1="98.5" y1="5" x2="98.5" y2="10" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm7:Line" x1="148.5" y1="5" x2="148.5" y2="10" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm8:Line" x1="198.5" y1="5" x2="198.5" y2="10" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm9:Line" x1="248.5" y1="5" x2="248.5" y2="10" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm10:Line" x1="48.5" y1="205" x2="48.5" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm11:Line" x1="98.5" y1="205" x2="98.5" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm12:Line" x1="148.5" y1="205" x2="148.5" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm13:Line" x1="198.5" y1="205" x2="198.5" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm14:Line" x1="248.5" y1="205" x2="248.5" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm15:Line" x1="15" y1="55" x2="20" y2="55" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm16:Line" x1="15" y1="105" x2="20" y2="105" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm17:Line" x1="15" y1="155" x2="20" y2="155" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm18:Line" x1="292" y1="55" x2="287" y2="55" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm19:Line" x1="292" y1="105" x2="287" y2="105" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm20:Line" x1="292" y1="155" x2="287" y2="155" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<text x="23.5" y="7.5" transform="translate(0,1.2249999999999999)" id="text1:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">1</text>
+<text x="73.5" y="7.5" transform="translate(0,1.2249999999999999)" id="text2:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">2</text>
+<text x="123.5" y="7.5" transform="translate(0,1.2249999999999999)" id="text3:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">3</text>
+<text x="173.5" y="7.5" transform="translate(0,1.2249999999999999)" id="text4:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">4</text>
+<text x="223.5" y="7.5" transform="translate(0,1.2249999999999999)" id="text5:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">5</text>
+<text x="273.5" y="7.5" transform="translate(0,1.2249999999999999)" id="text6:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">6</text>
+<text x="273.5" y="202.5" transform="translate(0,1.2249999999999999)" id="text11:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">A4</text>
+<text x="289.5" y="30" transform="translate(0,1.2249999999999999)" id="text7:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">A</text>
+<text x="289.5" y="80" transform="translate(0,1.2249999999999999)" id="text8:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">B</text>
+<text x="289.5" y="130" transform="translate(0,1.2249999999999999)" id="text9:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">C</text>
+<text x="289.5" y="180" transform="translate(0,1.2249999999999999)" id="text10:Text" style="font-size: 3.5pt; text-anchor: middle; fill: black; font-family: osifont">D</text>
+<g transform="translate(0,0)"><polygon id="poly1:Poly" transform="rotate(0)" points="0,0 10,0 10,5 5,5 5,10 0,10 0,0 " style="fill: solid black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin: round;"/></g>
+<g transform="translate(0,210)"><polygon id="poly2:Poly" transform="rotate(270)" points="0,0 10,0 10,5 5,5 5,10 0,10 0,0 " style="fill: solid black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin: round;"/></g>
+<g transform="translate(297,0)"><polygon id="poly3:Poly" transform="rotate(450)" points="0,0 10,0 10,5 5,5 5,10 0,10 0,0 " style="fill: solid black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin: round;"/></g>
+<g transform="translate(297,210)"><polygon id="poly4:Poly" transform="rotate(180)" points="0,0 10,0 10,5 5,5 5,10 0,10 0,0 " style="fill: solid black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin: round;"/></g>
+<rect x="107" y="173" width="180" height="27" id="rect3:Rect" style="stroke: black; stroke-width: 0.5249999999999999pt; stroke-linecap: round; stroke-linejoin: round; fill: none;"/>
+<line id="segm41:Line" x1="287" y1="182" x2="107" y2="182" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm42:Line" x1="181" y1="191" x2="139" y2="191" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm43:Line" x1="287" y1="191" x2="236" y2="191" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm44:Line" x1="139" y1="200" x2="139" y2="173" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm45:Line" x1="181" y1="173" x2="181" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm46:Line" x1="236" y1="182" x2="236" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm47:Line" x1="242" y1="173" x2="242" y2="182" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm48:Line" x1="245" y1="191" x2="245" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm49:Line" x1="269" y1="191" x2="269" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<line id="segm50:Line" x1="278" y1="191" x2="278" y2="200" style="stroke: black; stroke-width: 0.26249999999999996pt; stroke-linecap: round; stroke-linejoin:round;"/>
+<text x="108" y="175" transform="translate(0,0.7)" id="text41:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Responsible dept.</text>
+<text x="140" y="175" transform="translate(0,0.7)" id="text42:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Technical reference</text>
+<text x="140" y="184" transform="translate(0,0.7)" id="text43:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Created by</text>
+<text x="140" y="193" transform="translate(0,0.7)" id="text44:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Approved by</text>
+<text x="182" y="175" transform="translate(0,0.7)" id="text45:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Document type</text>
+<text x="243" y="175" transform="translate(0,0.7)" id="text46:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Document status</text>
+<text x="182" y="184" transform="translate(0,0.7)" id="text47:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Title, Supplementary title</text>
+<text x="237" y="193" transform="translate(0,0.7)" id="text48:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Rev.</text>
+<text x="246" y="193" transform="translate(0,0.7)" id="text49:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Date of issue</text>
+<text x="269.5" y="193" transform="translate(0,0.7)" id="text50:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Lang.</text>
+<text x="278" y="193" transform="translate(0,0.7)" id="text51:Text" style="font-size: 2pt; text-anchor: start; fill: black; font-family: osifont">Sheet</text>
+<text freecad:editable="Organization" x="123" y="191" transform="translate(0,0.8049999999999999)" id="text52:Text" style="font-size: 2.3pt; text-anchor: middle; fill: black; font-family: osifont"><tspan>x</tspan></text>
+<text freecad:editable="Comment 2" x="182" y="179" transform="translate(0,0.8049999999999999)" id="text53:Text" style="font-size: 2.3pt; text-anchor: start; fill: black; font-family: osifont"><tspan>x</tspan></text>
+<text freecad:editable="Title" x="208.5" y="192" transform="translate(0,0.8049999999999999)" id="text54:Text" style="font-size: 2.3pt; text-anchor: middle; fill: black; font-family: osifont"><tspan>x</tspan></text>
+<text freecad:editable="Comment 3" x="243" y="179" transform="translate(0,0.8049999999999999)" id="text55:Text" style="font-size: 2.3pt; text-anchor: start; fill: black; font-family: osifont"><tspan>x</tspan></text>
+<text freecad:editable="Comment 1" x="261.5" y="186.5" transform="translate(0,0.8049999999999999)" id="text56:Text" style="font-size: 2.3pt; text-anchor: middle; fill: black; font-family: osifont"><tspan>x</tspan></text>
+<text freecad:editable="Revision" x="240.5" y="197" transform="translate(0,0.8049999999999999)" id="text57:Text" style="font-size: 2.3pt; text-anchor: middle; fill: black; font-family: osifont"><tspan>x</tspan></text>
+<text freecad:editable="Date" x="257" y="197" transform="translate(0,0.8049999999999999)" id="text58:Text" style="font-size: 2.3pt; text-anchor: middle; fill: black; font-family: osifont"><tspan>x</tspan></text>
+<text freecad:editable="Comment 4" x="273.5" y="197" transform="translate(0,0.8049999999999999)" id="text59:Text" style="font-size: 2.3pt; text-anchor: middle; fill: black; font-family: osifont"><tspan>x</tspan></text>
+<text freecad:editable="SheetNo" x="282.5" y="197" transform="translate(0,0.8049999999999999)" id="text60:Text" style="font-size: 2.3pt; text-anchor: middle; fill: black; font-family: osifont"><tspan>x</tspan></text>
+</svg>
