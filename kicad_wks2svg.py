@@ -34,6 +34,9 @@ def to_svg(ast):
     cmd = ast[0]
     if cmd == "page_layout":
         result += f"""<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated with KiCAD2TechDraw: https://github.com/alexneufeld/KiCAD2TechDraw -->
+<!-- Based on templates created by the KICAD developers: https://gitlab.com/kicad/libraries/kicad-templates -->
+
 <svg
     xmlns="http://www.w3.org/2000/svg" version="1.1"
     xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace"
